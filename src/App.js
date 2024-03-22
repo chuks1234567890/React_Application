@@ -76,7 +76,7 @@ function App() {
     <Routes>
       <Route path="React_Application/" element={< Layout search={search} setSearch={setSearch} width={width}/>}>
         <Route index element={<Home posts={searchResult} fetchError={fetchError} isLoading={isLoading}/>}/>
-        <Route path='React_Application/post'>
+        <Route path='React/post'>
           <Route index element={<NewPost  handleSubmit={handleSubmit} setPostTitle={setPostTitle} postTitle={postTitle} postBody={postBody} setPostBody={setPostBody}/>}/>
           <Route path=":id" element={<PostPage posts={posts} handleDelete={handleDelete}  />} />
         </Route> 
