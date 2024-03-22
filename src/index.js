@@ -9,7 +9,7 @@ root.render(
     
     <Router>
       <Routes>
-        <Route path='React_Application/' element={<App/>}/>
+        <Route path='/React_Application/' element={<App/>}/>
       </Routes> 
     </Router>
     
