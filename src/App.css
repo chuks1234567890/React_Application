@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:baloo;
+  font-family:Baloo;
 }
 
 @font-face {
-  font-family:baloo;
+  font-family:Baloo;
   src: url( BalooPaaji-Regular.ttf);
 }
 body{
@@ -45,7 +45,6 @@ body{
   height: 100px;
   background-color: #4070f4 ;
   border-radius: 20px 20px 3px 3px;
-  
   top: 30px;
 }
 .Main-Header nav{
