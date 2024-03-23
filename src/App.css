@@ -2,12 +2,12 @@
   margin: 0  ;
   padding: 0;
   box-sizing: border-box;
-  font-family: poppins;
+  font-family:baloo;
 }
 
 @font-face {
-  font-family: poppins;
-  src: url(BalooPaaji-Regular.ttf);
+  font-family:baloo;
+  src:url(BalooPaaji-Regular.ttf);
 }
 body{
   width: 100%;
