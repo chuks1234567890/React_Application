@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Application/static/css/main.482ce516.css",
-    "main.js": "/React_Application/static/js/main.9a7bee4a.js",
-    "static/media/Poppins-Regular.ttf": "/React_Application/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "main.css": "/React_Application/static/css/main.b6908877.css",
+    "main.js": "/React_Application/static/js/main.9ef7c003.js",
+    "static/media/BalooPaaji-Regular.ttf": "/React_Application/static/media/BalooPaaji-Regular.c9c68b5aa3ee7d397ff6.ttf",
     "static/media/[removal.ai]_fbcb3cb0-5323-4e61-a6fa-714bf53c90a2-2672292.png": "/React_Application/static/media/[removal.ai]_fbcb3cb0-5323-4e61-a6fa-714bf53c90a2-2672292.8eb384c171297da4544a.png",
     "index.html": "/React_Application/index.html",
-    "main.482ce516.css.map": "/React_Application/static/css/main.482ce516.css.map",
-    "main.9a7bee4a.js.map": "/React_Application/static/js/main.9a7bee4a.js.map"
+    "main.b6908877.css.map": "/React_Application/static/css/main.b6908877.css.map",
+    "main.9ef7c003.js.map": "/React_Application/static/js/main.9ef7c003.js.map"
   },
   "entrypoints": [
-    "static/css/main.482ce516.css",
-    "static/js/main.9a7bee4a.js"
+    "static/css/main.b6908877.css",
+    "static/js/main.9ef7c003.js"
   ]
 }
