@@ -22,7 +22,7 @@ function App() {
   const [posts,setPosts]=useState([])
   const navigator=useNavigate()
   const {width}=useWindowSize()
-  const {data,fetchError,isLoading}=useAxiosFetch("http://localhost:3000/posts")
+  const {data,fetchError,isLoading}=useAxiosFetch("https://api.jsonbin.io/v3/qs/6602fedefe36e24a20a83aba")
   useEffect(()=>{
     setPosts(data)
   },[data])
